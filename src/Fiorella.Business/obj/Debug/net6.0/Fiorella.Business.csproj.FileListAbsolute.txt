@@ -1,0 +1,17 @@
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Business\bin\Debug\net6.0\Fiorella.Business.deps.json
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Business\bin\Debug\net6.0\Fiorella.Business.dll
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Business\bin\Debug\net6.0\Fiorella.Business.pdb
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Business\obj\Debug\net6.0\Fiorella.Business.csproj.AssemblyReference.cache
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Business\obj\Debug\net6.0\Fiorella.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Business\obj\Debug\net6.0\Fiorella.Business.AssemblyInfoInputs.cache
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Business\obj\Debug\net6.0\Fiorella.Business.AssemblyInfo.cs
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Business\obj\Debug\net6.0\Fiorella.Business.csproj.CoreCompileInputs.cache
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Business\obj\Debug\net6.0\Fiorella.Business.dll
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Business\obj\Debug\net6.0\refint\Fiorella.Business.dll
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Business\obj\Debug\net6.0\Fiorella.Business.pdb
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Business\obj\Debug\net6.0\ref\Fiorella.Business.dll
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Business\bin\Debug\net6.0\Fiorella.Core.dll
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Business\bin\Debug\net6.0\Fiorella.DataAccess.dll
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Business\bin\Debug\net6.0\Fiorella.DataAccess.pdb
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Business\bin\Debug\net6.0\Fiorella.Core.pdb
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Business\obj\Debug\net6.0\Fiorella.Business.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.DataAccess\bin\Debug\net6.0\Fiorella.DataAccess.deps.json
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.DataAccess\bin\Debug\net6.0\Fiorella.DataAccess.dll
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.DataAccess\bin\Debug\net6.0\Fiorella.DataAccess.pdb
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.DataAccess\obj\Debug\net6.0\Fiorella.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.DataAccess\obj\Debug\net6.0\Fiorella.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.DataAccess\obj\Debug\net6.0\Fiorella.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.DataAccess\obj\Debug\net6.0\Fiorella.DataAccess.AssemblyInfo.cs
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.DataAccess\obj\Debug\net6.0\Fiorella.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.DataAccess\obj\Debug\net6.0\Fiorella.DataAccess.dll
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.DataAccess\obj\Debug\net6.0\refint\Fiorella.DataAccess.dll
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.DataAccess\obj\Debug\net6.0\Fiorella.DataAccess.pdb
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.DataAccess\obj\Debug\net6.0\ref\Fiorella.DataAccess.dll
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.DataAccess\bin\Debug\net6.0\Fiorella.Core.dll
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.DataAccess\bin\Debug\net6.0\Fiorella.Core.pdb
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.DataAccess\obj\Debug\net6.0\Fiorella.DataAccess.csproj.CopyComplete

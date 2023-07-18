@@ -1,0 +1,12 @@
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Core\bin\Debug\net6.0\Fiorella.Core.deps.json
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Core\bin\Debug\net6.0\Fiorella.Core.dll
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Core\bin\Debug\net6.0\Fiorella.Core.pdb
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Core\obj\Debug\net6.0\Fiorella.Core.csproj.AssemblyReference.cache
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Core\obj\Debug\net6.0\Fiorella.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Core\obj\Debug\net6.0\Fiorella.Core.AssemblyInfoInputs.cache
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Core\obj\Debug\net6.0\Fiorella.Core.AssemblyInfo.cs
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Core\obj\Debug\net6.0\Fiorella.Core.csproj.CoreCompileInputs.cache
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Core\obj\Debug\net6.0\Fiorella.Core.dll
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Core\obj\Debug\net6.0\refint\Fiorella.Core.dll
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Core\obj\Debug\net6.0\Fiorella.Core.pdb
+C:\Users\Baku\Desktop\MainSolution\src\Fiorella.Core\obj\Debug\net6.0\ref\Fiorella.Core.dll
